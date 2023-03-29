@@ -1,7 +1,6 @@
 {
     "mountains" :
 
-
 [
 
     {
@@ -14,10 +13,11 @@
     },
     {
         "id": "2",
-        "name": "Ben Nevis",
-        "height": "1344",
-        "lat": "56.7969",
-        "lng": "5.0036"
+        "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSt%25C3%25B9c_a%2527_Chroin&psig=AOvVaw1zRNyeFejr9yF2LrOInqnO&ust=1680179817997000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDYlduTgf4CFQAAAAAdAAAAABAE",
+        "name": "Stuc a'Chroin",
+        "height": "975",
+        "lat": "56.32872",
+        "lng": "-4.23826"
     },
     {
         "id": "3",
